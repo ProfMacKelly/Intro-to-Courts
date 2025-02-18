@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Brief: Chimel v. California
 
 **Facts**&#x20;
