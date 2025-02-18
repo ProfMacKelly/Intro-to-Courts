@@ -38,5 +38,8 @@
 
 * [Terry v. Ohio](terry-v.-ohio.md)
 * [Weeks v. United States](weeks-v.-united-states.md)
-* [Carroll v. United States](carroll-v.-united-states.md)
-* [Chimel v. California](chimel-v.-california.md)
+  * [Brief: Weeks v. United States](weeks-v.-united-states/brief-weeks-v.-united-states.md)
+* [Carroll v. United States](carroll-v.-united-states/README.md)
+  * [Brief: Carroll v. United States](carroll-v.-united-states/brief-carroll-v.-united-states.md)
+* [Chimel v. California](chimel-v.-california/README.md)
+  * [Brief: Chimel v. California](chimel-v.-california/brief-chimel-v.-california.md)
