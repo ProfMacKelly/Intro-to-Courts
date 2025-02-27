@@ -5,8 +5,10 @@
 * [Introduction to Courts & the Law](README.md)
   * [Law & Its Functions](introduction/readme/law-and-its-functions.md)
   * [Modern Legal Systems](introduction/readme/modern-legal-systems.md)
-  * [Basic American Legal Principles](introduction/readme/basic-american-legal-principles.md)
-  * [Court System Overview](introduction/readme/court-system-overview.md)
+  * [Basic Classifications of Law](introduction/readme/basic-classifications-of-law.md)
+  * [Sources of Law](introduction/readme/sources-of-law.md)
+  * [Federalism](introduction/readme/court-system-overview.md)
+  * [Court System Overview](introduction/readme/court-system-overview-1.md)
 
 ***
 
@@ -42,12 +44,12 @@
     * [Estate of Cavanaugh v. Andrade](case-law/1.2-introduction-to-reading-and-briefing-cases/1.3-brief-the-case-exercise/estate-of-cavanaugh-v.-andrade.md)
     * [Model Brief for "Brief the Case" Exercise](case-law/1.2-introduction-to-reading-and-briefing-cases/1.3-brief-the-case-exercise/model-brief-for-brief-the-case-exercise.md)
 
-***
+## INTRODUCTORY CRIMINAL PROCEDURE PRINCIPLES
 
-* [Terry v. Ohio](terry-v.-ohio.md)
-* [Weeks v. United States](weeks-v.-united-states.md)
-  * [Brief: Weeks v. United States](weeks-v.-united-states/brief-weeks-v.-united-states.md)
-* [Carroll v. United States](carroll-v.-united-states.md)
-  * [Brief: Carroll v. United States](carroll-v.-united-states/brief-carroll-v.-united-states.md)
-* [Chimel v. California](chimel-v.-california.md)
-  * [Brief: Chimel v. California](chimel-v.-california/brief-chimel-v.-california.md)
+* [Terry v. Ohio](introductory-criminal-procedure-principles/terry-v.-ohio.md)
+* [Weeks v. United States](introductory-criminal-procedure-principles/weeks-v.-united-states/README.md)
+  * [Brief: Weeks v. United States](introductory-criminal-procedure-principles/weeks-v.-united-states/brief-weeks-v.-united-states.md)
+* [Carroll v. United States](introductory-criminal-procedure-principles/carroll-v.-united-states/README.md)
+  * [Brief: Carroll v. United States](introductory-criminal-procedure-principles/carroll-v.-united-states/brief-carroll-v.-united-states.md)
+* [Chimel v. California](introductory-criminal-procedure-principles/chimel-v.-california/README.md)
+  * [Brief: Chimel v. California](introductory-criminal-procedure-principles/chimel-v.-california/brief-chimel-v.-california.md)
