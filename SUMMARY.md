@@ -5,6 +5,7 @@
 * [Introduction to Courts & the Law](README.md)
   * [Law & Its Functions](introduction/readme/law-and-its-functions.md)
   * [Modern Legal Systems](introduction/readme/modern-legal-systems.md)
+  * [Basic American Legal Principles](introduction/readme/basic-american-legal-principles.md)
   * [Court System Overview](introduction/readme/court-system-overview.md)
 
 ***
