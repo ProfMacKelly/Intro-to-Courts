@@ -1,6 +1,14 @@
 # Table of contents
 
+## INTRODUCTION
+
 * [Introduction to Courts & the Law](README.md)
+  * [Law & Its Functions](introduction/readme/law-and-its-functions.md)
+  * [Page](introduction/readme/page.md)
+  * [Court System Overview](introduction/readme/court-system-overview.md)
+
+***
+
 * [Procedures Prior to Trial](procedures-prior-to-trial/README.md)
   * [Commencing Criminal Prosecutions](procedures-prior-to-trial/commencing-criminal-prosecutions.md)
   * [Presence of the Defendant](procedures-prior-to-trial/presence-of-the-defendant.md)
@@ -12,7 +20,6 @@
   * [Grand Jury](procedures-prior-to-trial/grand-jury.md)
   * [Arraignment](procedures-prior-to-trial/arraignment/README.md)
     * [Video: Kyle Rittenhouse](procedures-prior-to-trial/arraignment/video-kyle-rittenhouse.md)
-* [Court System Overview](court-system-overview.md)
 
 ## Case Law
 

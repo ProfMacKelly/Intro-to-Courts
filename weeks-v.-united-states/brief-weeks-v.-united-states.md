@@ -41,7 +41,7 @@ the evidence couldn't be used to convict and sentence
 
       > It was in that case demonstrated that both of these Amendments contemplated perpetuating, in their full efficacy, by means of a constitutional provision, principles of humanity and civil liberty, which had been secured in the mother country only after years of struggle, so as to implant them in our institutions in the fullness of their integrity, free from the possibilities of future legislative change.
 
-      * place limitations and restraints on federal gov't powers and authoriy
+      * place limitations and restraints on federal gov't powers and authority
 * **when legally arrested, gov't may searched the person and seize the fruits (of the search) or evidence of crime**
 * **If warrantless searches were allowed, the 4th Amend would be meaningless**
   * **Fundamental principle!**
