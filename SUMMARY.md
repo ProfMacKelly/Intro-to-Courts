@@ -12,17 +12,18 @@
 
 ***
 
-* [Procedures Prior to Trial](procedures-prior-to-trial/README.md)
-  * [Commencing Criminal Prosecutions](procedures-prior-to-trial/commencing-criminal-prosecutions.md)
-  * [Presence of the Defendant](procedures-prior-to-trial/presence-of-the-defendant.md)
-  * [Initial Appearance](procedures-prior-to-trial/initial-appearance/README.md)
-    * [Video: Darrell Brooks (Waukesha Christmas Parade)](procedures-prior-to-trial/initial-appearance/video-darrell-brooks-waukesha-christmas-parade.md)
-  * [Preliminary Examinations](procedures-prior-to-trial/preliminary-examinations/README.md)
-    * [Video 1: Darrell Brooks (Waukesha Christmas Parade)](procedures-prior-to-trial/preliminary-examinations/video-1-darrell-brooks-waukesha-christmas-parade.md)
-    * [Video 2: Kyle Rittenhouse (Kenosha Shooting)](procedures-prior-to-trial/preliminary-examinations/video-2-kyle-rittenhouse-kenosha-shooting.md)
-  * [Grand Jury](procedures-prior-to-trial/grand-jury.md)
-  * [Arraignment](procedures-prior-to-trial/arraignment/README.md)
-    * [Video: Kyle Rittenhouse](procedures-prior-to-trial/arraignment/video-kyle-rittenhouse.md)
+* [Procedures Prior to Trial](procedures-prior-to-trial.md)
+* [Procedures Prior to Trial](procedures-prior-to-trial-1/README.md)
+  * [Commencing Criminal Prosecutions](procedures-prior-to-trial-1/commencing-criminal-prosecutions.md)
+  * [Presence of the Defendant](procedures-prior-to-trial-1/presence-of-the-defendant.md)
+  * [Initial Appearance](procedures-prior-to-trial-1/initial-appearance/README.md)
+    * [Video: Darrell Brooks (Waukesha Christmas Parade)](procedures-prior-to-trial-1/initial-appearance/video-darrell-brooks-waukesha-christmas-parade.md)
+  * [Preliminary Examinations](procedures-prior-to-trial-1/preliminary-examinations/README.md)
+    * [Video 1: Darrell Brooks (Waukesha Christmas Parade)](procedures-prior-to-trial-1/preliminary-examinations/video-1-darrell-brooks-waukesha-christmas-parade.md)
+    * [Video 2: Kyle Rittenhouse (Kenosha Shooting)](procedures-prior-to-trial-1/preliminary-examinations/video-2-kyle-rittenhouse-kenosha-shooting.md)
+  * [Grand Jury](procedures-prior-to-trial-1/grand-jury.md)
+  * [Arraignment](procedures-prior-to-trial-1/arraignment/README.md)
+    * [Video: Kyle Rittenhouse](procedures-prior-to-trial-1/arraignment/video-kyle-rittenhouse.md)
 
 ## Case Law
 
