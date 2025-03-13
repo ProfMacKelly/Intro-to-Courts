@@ -1,7 +1,5 @@
 # Commencing Criminal Prosecutions
 
-\*# Commencing Criminal Prosecutions
-
 ### Introduction
 
 The initiation of a criminal prosecution in Wisconsin follows a structured path, aligned with the legal framework outlined in [Wis. Stat. § 967.05](https://docs.legis.wisconsin.gov/statutes/statutes/967/05?view=section). The method of commencement depends largely on the nature of the defendant and the severity of the alleged crime:
