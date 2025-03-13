@@ -12,12 +12,13 @@
 
 ***
 
-* [Procedures Prior to Trial](procedures-prior-to-trial/README.md)
+* [Procedures Prior to Trial](procedures-prior-to-trial.md)
   * [Basic Outlines/Flowcharts](procedures-prior-to-trial/basic-outlines-flowcharts.md)
-  * [Commencing Criminal Prosecutions](procedures-prior-to-trial/commencing-criminal-prosecutions/README.md)
+  * [Commencing Criminal Prosecutions](procedures-prior-to-trial-1/commencing-criminal-prosecutions.md)
     * [Notes](procedures-prior-to-trial/commencing-criminal-prosecutions/notes.md)
+  * [Presence of the Defendant](procedures-prior-to-trial/presence-of-the-defendant/README.md)
+    * [Notes](procedures-prior-to-trial/presence-of-the-defendant/notes.md)
 * [Procedures Prior to Trial](procedures-prior-to-trial-1/README.md)
-  * [Presence of the Defendant](procedures-prior-to-trial-1/presence-of-the-defendant.md)
   * [Initial Appearance](procedures-prior-to-trial-1/initial-appearance/README.md)
     * [Video: Darrell Brooks (Waukesha Christmas Parade)](procedures-prior-to-trial-1/initial-appearance/video-darrell-brooks-waukesha-christmas-parade.md)
   * [Preliminary Examinations](procedures-prior-to-trial-1/preliminary-examinations/README.md)
