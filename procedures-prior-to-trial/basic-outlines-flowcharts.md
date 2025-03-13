@@ -24,13 +24,13 @@ The Wisconsin Court System: Demystifying the Judicial Branch (Wisconsin Legislat
 
 ## Wisconsin Felony Procedure&#x20;
 
-(Wisconsin Department of Justice)
+([Wisconsin Department of Justice](https://www.doj.state.wi.us/sites/default/files/ocvs/navigating/FELONYflowchart\[1].pdf))
 
 {% embed url="https://www.doj.state.wi.us/sites/default/files/ocvs/navigating/FELONYflowchart[1].pdf" %}
 
 ## Wisconsin Misdemeanor Procedure&#x20;
 
-(Wisconsin Department of Justice)
+([Wisconsin Department of Justice](https://www.doj.state.wi.us/sites/default/files/ocvs/navigating/MISDflowchart\[1].pdf))
 
 {% embed url="https://www.doj.state.wi.us/sites/default/files/ocvs/navigating/MISDflowchart[1].pdf" %}
 
